@@ -59,6 +59,7 @@ Cybersecurity-Handwritten-Notes/
 │   ├── IDS-Fundamentals/
 │   ├── Incident-Response-Fundamentals/
 │   ├── Logs-Fundamentals/
+|   |── Soc-Fundamentals/
 │   ├── SIEM-Fundamentals/
 │   │
 │   └── Defensive-Security-Tools/
